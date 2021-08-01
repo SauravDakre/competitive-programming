@@ -1,7 +1,6 @@
 package primeNumber
 
 import (
-	"fmt"
 	"testing"
 )
 
